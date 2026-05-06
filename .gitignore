@@ -1,0 +1,6 @@
+data/
+ECSSD/
+*.zip
+*.pth
+__pycache__/
+.ipynb_checkpoints/
